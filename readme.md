@@ -7,4 +7,5 @@ We'll see how this goes...
 
 ## Initial Development pre 1.0.0
 
+- Testing and applying Cartalyst Sentry, Sentry-social, and API.
 - Created this `readme.md` booyah! Commit that, Yo.

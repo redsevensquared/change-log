@@ -7,5 +7,6 @@ We'll see how this goes...
 
 ## Initial Development pre 1.0.0
 
+- Composer.json update. Had `"laravel/framework": "4.0.*",` under `"require"` and `"require-dev"`
 - Testing and applying Cartalyst Sentry, Sentry-Social, and API.
 - Created this `readme.md` booyah! Commit that, Yo.

@@ -13,4 +13,3 @@ We'll see how this goes...
 - Testing and applying Cartalyst Sentry, Sentry-Social, and API.
 - Created this `readme.md` booyah! Commit that, Yo.
 - Been some major leaps forward! Stand by!
-- 

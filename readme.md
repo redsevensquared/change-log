@@ -13,4 +13,4 @@ We'll see how this goes...
 - Testing and applying Cartalyst Sentry, Sentry-Social, and API.
 - Created this `readme.md` booyah! Commit that, Yo.
 - Been some major leaps forward! Stand by!
-- But standby over at Grassroots Hub. That's the real product.
+- But please head over to Grassroots Hub. That's the real product.
